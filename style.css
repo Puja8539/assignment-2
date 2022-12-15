@@ -1,0 +1,54 @@
+.heading{
+    width: 100%;
+    height: 11vh;
+    background-color: #6983aa;
+    border-radius: 5px;
+
+}
+#result{
+    position: relative;
+    margin: -1% 10%;
+
+}
+.trend{
+margin: 3% 10%;
+}
+.button{
+    margin: -2% 9%;
+    
+}
+#btn{
+ border: 1px solid #0084ff;
+ border-radius: 15px;
+ background-color: transparent;
+ padding: 6px 10px;
+ cursor: pointer;
+ margin: 5px;
+}
+#btns{
+    border: 1px solid #0084ff;
+    border-radius: 15px;
+    background-color: #0084ff;
+    padding: 6px 10px;
+    cursor: pointer;
+    margin: 5px;
+    color: white;
+
+
+}
+.image{
+margin: 5% 10%;
+}
+#cloud{
+
+     
+     width: 100%;
+     
+}
+#arti{
+    width: 100%;
+}
+.image{
+    display: flex;
+    flex-direction: column;
+}
